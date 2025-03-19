@@ -34,9 +34,9 @@ class SetWallpaper {
       case WallpaperType.system:
         return 1; // WallpaperManager.FLAG_SYSTEM
       case WallpaperType.home:
-        return 1; // WallpaperManager.FLAG_SYSTEM
+        return 2; // WallpaperManager.FLAG_SYSTEM
       case WallpaperType.lock:
-        return 2; // WallpaperManager.FLAG_LOCK
+        return 3; // WallpaperManager.FLAG_LOCK
     }
   }
 }
