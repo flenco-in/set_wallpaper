@@ -1,6 +1,6 @@
 name: set_wallpaper
 description: "A Flutter plugin for setting wallpapers on Android devices seamlessly, supporting home screen, lock screen, and both."
-version: 0.0.1
+version: 0.0.3
 homepage: https://flenco.in
 
 environment:
